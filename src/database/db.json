@@ -1,0 +1,18 @@
+{
+    "user": [
+      {
+        "name": "Debarati ",
+        "email": "debarati84430@gmail.com",
+        "phone": "8443055370",
+        "city": "kolkata",
+        "id": 1
+      },
+      {
+        "name": "Sayeri",
+        "email": "sayeridd@gmail.com",
+        "phone": "8282829792",
+        "city": "kolkata",
+        "id": 2
+      }
+    ]
+  }
